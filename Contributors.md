@@ -57,6 +57,7 @@
 - [Daniel Leinweber](https://github.com/daniel-leinweber)
 - [0126kjw](https://github.com/0126kjw)
 - [Joseph Ani](https://github.com/joe-ani)
+- [Rutwick Achanti](https://github.com/Rutwic15)
 - [Arthur Okonkwo](https://github.com/arthurokonkwo)
 - [TariqAziz](https://github.com/Tariq-AQ)
 - [Rounak Shrivastav](https://github.com/Rounakshrivastav)
